@@ -1,8 +1,9 @@
+# 📌 ChurnFlow: End-to-End MLOps Pipeline for Customer Retention
+
 <p align="center">
-  <img src="imgs/ChurnFlow.png" alt="CF" width="500">
+  <img src="imgs/ChurnFlow.png" alt="CF" width="300">
 </p>
 
-# 📌 ChurnFlow: End-to-End MLOps Pipeline for Customer Retention
 > A production-ready MLOps solution designed to predict and mitigate customer churn using a fully automated pipeline.
 
 
