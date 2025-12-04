@@ -70,8 +70,8 @@ This pipeline significantly reduced the time-to-deployment and maintenance overh
 ## 🛠️ Installation
 1️⃣ **Clone the Repository**
 <pre>
-git clone https://github.com/ahmedmoussa/Projects-Portfolio.git
-cd 'ChurnFlow - End-to-End MLOps Pipeline for Customer Retention'
+git clone https://github.com/ahmedmoussa/ChurnFlow.git
+cd ChurnFlow
 </pre>
 
 2️⃣ **Create Virtual Environment**
