@@ -63,7 +63,7 @@ This pipeline significantly reduced the time-to-deployment and maintenance overh
 ┣ 📜 api.Dockerfile                            # Dockerfile for API service 
 ┣ 📜 monitor.Dockerfile                        # Dockerfile for monitoring service 
 ┣ 📜 mlflow.Dockerfile                         # Dockerfile for MLflow service
-┣ 📜 README.md
+┗ 📜 README.md
 </pre>
 
 ---
